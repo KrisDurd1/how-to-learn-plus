@@ -1,0 +1,6 @@
+.description {
+    display: flex;
+    margin-top: 100px; /* внешние отступы */
+    flex-direction: row; /*  слева направо */
+    justify-content: center; /* выровнивание главная ось */
+  }
