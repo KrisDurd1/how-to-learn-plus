@@ -9,7 +9,4 @@
     color: #fff;
     text-align: left;
   }
-  .footer__column-links:hover {
-    transition: .6s linear;
-    opacity: 0.5;
-}
+  
