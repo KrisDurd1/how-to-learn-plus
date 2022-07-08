@@ -1,7 +1,9 @@
 .oakley {
-        display: flex;
-        padding-top: 160px; 
-        flex-direction: row; /*  слева направо */
-        justify-content: center; /* выровнивание главная ось */
-        background-color: #f2f2f2;
-      }
+  display: flex;
+  padding-top: 160px;
+  flex-direction: row;
+  /*  слева направо */
+  justify-content: center;
+  /* выровнивание главная ось */
+  background-color: #f2f2f2;
+}

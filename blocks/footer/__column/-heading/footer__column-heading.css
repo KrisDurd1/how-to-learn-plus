@@ -1,8 +1,0 @@
-.footer__column-heading {
-    margin: 0; /* отступ снизу задан в footer__column-links как верхний отсуп*/
-    font-size: 18px;
-    line-height: 30px;
-    font-weight: normal;
-    font-weight: bold;
-    text-align: left; 
-  }
